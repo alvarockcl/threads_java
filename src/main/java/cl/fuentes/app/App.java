@@ -1,6 +1,7 @@
 package cl.fuentes.app;
 
 // java -cp target/threads_java-1.jar cl.fuentes.app.App
+// java -cp target/threads_java-1.jar cl.fuentes.otro.EjemploHilo
 
 public class App 
 {
